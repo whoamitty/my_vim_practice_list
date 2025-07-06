@@ -9,7 +9,7 @@
 
 5. vimgolf
 
-## some other
+## some others
 
 https://www.theviminator.com/
 https://github.com/mi-lee/vim-adventures-in-elm

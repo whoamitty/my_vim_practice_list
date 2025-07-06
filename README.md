@@ -8,3 +8,8 @@
 4. [Vim-Katas](https://github.com/adomokos/Vim-Katas)
 
 5. vimgolf
+
+## some other
+
+https://www.theviminator.com/
+https://github.com/mi-lee/vim-adventures-in-elm
